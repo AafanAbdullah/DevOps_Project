@@ -66,7 +66,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>Simple React CRUD </h1>
+      <h1>REACT TO DO APP</h1>
       <form onSubmit={handleSubmit} className="form">
         <input
           type="text"
