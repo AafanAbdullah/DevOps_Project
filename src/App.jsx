@@ -66,7 +66,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>react app</h1>
+      <h1>amush react app</h1>
       <form onSubmit={handleSubmit} className="form">
         <input
           type="text"
